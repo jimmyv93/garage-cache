@@ -14,7 +14,7 @@ jobs:
 
       - name: Hämta data från Stockholm Parkering API
         run: |
-          curl -s --max-time 30 \
+          curl -s --max-time 299 \
             "https://api.stockholmparkering.se:8084/SparkInfartsParkeringService.svc/GetAllAnlaggningParkeringsInfo" \
             -o data/garagedata.json
           echo "Hämtad $(date -u '+%Y-%m-%dT%H:%M:%SZ')"
