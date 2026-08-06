@@ -1,0 +1,182 @@
+[
+ {
+  "id": "NB1900",
+  "name": "NexBlue Edge 2 Laddbox - V2G & Solceller - Inkl. Installation",
+  "brand": "NexBlue",
+  "price": "4 690 SEK",
+  "oldPrice": "",
+  "image": "https://evify2.s3.amazonaws.com/media/lbx-google-nexblue-edge-2.png",
+  "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=NB1900&url=https://www.evify.se/produkter/nexblue-edge-2/"
+ },
+ {
+  "id": "2452250",
+  "name": "Charge Amps Halo Laddbox - Fast Laddkabel - Inkl. Installation",
+  "brand": "Charge Amps",
+  "price": "4 990 SEK",
+  "oldPrice": "",
+  "image": "https://evify2.s3.amazonaws.com/media/lbx-google-charge-amps-halo.png",
+  "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=2452250&url=https://www.evify.se/produkter/charge-amps-halo/"
+ },
+ {
+  "id": "10140",
+  "name": "Easee Charge Up - Bäst i test - Inkl. Installation",
+  "brand": "Easee",
+  "price": "4 990 SEK",
+  "oldPrice": "",
+  "image": "https://evify2.s3.amazonaws.com/media/lbx-google-easee-charge-up.png",
+  "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=10140&url=https://www.evify.se/produkter/easee-charge-up/"
+ },
+ {
+  "id": "131461",
+  "name": "Charge Amps Luna Laddbox - V2G & 4G - Svensktillverkad - Inkl. Installation",
+  "brand": "Charge Amps",
+  "price": "4 990 SEK",
+  "oldPrice": "",
+  "image": "https://evify2.s3.amazonaws.com/media/lbx-google-charge-amps-luna.png",
+  "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=131461&url=https://www.evify.se/produkter/charge-amps-luna/"
+ },
+ {
+  "id": "368800",
+  "name": "Zaptec Go Laddbox - Bästsäljare - Inkl. Installation",
+  "brand": "Zaptec",
+  "price": "4 990 SEK",
+  "oldPrice": "",
+  "image": "https://evify2.s3.amazonaws.com/media/lbx-google-zaptec-go.png",
+  "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=368800&url=https://www.evify.se/produkter/zaptec-go/"
+ },
+ {
+  "id": "21340",
+  "name": "go-e Gemini Flex 2.0 Laddbox - Flexibel Hemma & På Resan - Inkl. Installation",
+  "brand": "go-e",
+  "price": "4 990 SEK",
+  "oldPrice": "",
+  "image": "https://evify2.s3.amazonaws.com/media/lbx-google-go-e-gemini-flex.png",
+  "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=21340&url=https://www.evify.se/produkter/go-e-gemini-flex/"
+ },
+ {
+  "id": "T2001",
+  "name": "Easee Charge Up Laddbox + Tibber - 1 000 kr Rabatt",
+  "brand": "Easee",
+  "price": "4 990 SEK",
+  "oldPrice": "",
+  "image": "https://evify2.s3.amazonaws.com/static/assets/img/tibber/produkter/easee-charge-up-tibber-laddbox.png",
+  "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=T2001&url=https://www.evify.se/laddbox/tibber/?p=1"
+ },
+ {
+  "id": "T2003",
+  "name": "Zaptec Go Laddbox + Tibber - 1 000 kr Rabatt",
+  "brand": "Zaptec",
+  "price": "4 990 SEK",
+  "oldPrice": "",
+  "image": "https://evify2.s3.amazonaws.com/static/assets/img/tibber/produkter/zaptec-go-tibber-laddbox.png",
+  "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=T2003&url=https://www.evify.se/laddbox/tibber/?p=3"
+ },
+ {
+  "id": "T2004",
+  "name": "Zaptec Go 2 Laddbox + Tibber - 1 000 kr Rabatt",
+  "brand": "Zaptec",
+  "price": "4 990 SEK",
+  "oldPrice": "",
+  "image": "https://evify2.s3.amazonaws.com/static/assets/img/tibber/produkter/zaptec-go-2-tibber-laddbox.png",
+  "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=T2004&url=https://www.evify.se/laddbox/tibber/?p=4"
+ },
+ {
+  "id": "T2005",
+  "name": "go-e Gemini Flex 2.0 Laddbox + Tibber - 1 000 kr Rabatt",
+  "brand": "go-e",
+  "price": "4 990 SEK",
+  "oldPrice": "",
+  "image": "https://evify2.s3.amazonaws.com/static/assets/img/tibber/produkter/goe-gemini-flex-tibber-laddbox.png",
+  "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=T2005&url=https://www.evify.se/laddbox/tibber/?p=5"
+ },
+ {
+  "id": "T2007",
+  "name": "Charge Amps Luna Laddbox + Tibber - 1 000 kr Rabatt",
+  "brand": "Charge Amps",
+  "price": "4 990 SEK",
+  "oldPrice": "",
+  "image": "https://evify2.s3.amazonaws.com/static/assets/img/tibber/produkter/charge-amps-luna-tibber-laddbox.png",
+  "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=T2007&url=https://www.evify.se/produkter/charge-amps-luna/?p=1"
+ },
+ {
+  "id": "379800",
+  "name": "Zaptec Go 2 - Laddbox med V2G - Inkl. Installation",
+  "brand": "Zaptec",
+  "price": "5 990 SEK",
+  "oldPrice": "",
+  "image": "https://evify2.s3.amazonaws.com/media/lbx-google-zaptec-go-2.png",
+  "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=379800&url=https://www.evify.se/produkter/zaptec-go-2/"
+ },
+ {
+  "id": "715000",
+  "name": "DEFA Power Laddbox - Fast Laddkabel & Display - Inkl. Installation",
+  "brand": "Defa",
+  "price": "5 990 SEK",
+  "oldPrice": "",
+  "image": "https://evify2.s3.amazonaws.com/media/lbx-google-defa-power.png",
+  "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=715000&url=https://www.evify.se/produkter/defa-power/"
+ },
+ {
+  "id": "80100",
+  "name": "Tesla Wall Connector Laddbox - Fast laddkabel - Inkl. Installation",
+  "brand": "Tesla",
+  "price": "5 990 SEK",
+  "oldPrice": "",
+  "image": "https://evify2.s3.amazonaws.com/media/tesla-wall-connector-laddbox.png",
+  "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=80100&url=https://www.evify.se/produkter/tesla-wall-connector/"
+ },
+ {
+  "id": "10341",
+  "name": "Easee Charge Max - Laddbox med V2G - Inkl. Installation",
+  "brand": "Easee",
+  "price": "5 990 SEK",
+  "oldPrice": "",
+  "image": "https://evify2.s3.amazonaws.com/media/lbx-google-easee-charge-max.png",
+  "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=10341&url=https://www.evify.se/produkter/easee-charge-max/"
+ },
+ {
+  "id": "E264",
+  "name": "Wallbox Pulsar Max Laddbox - Laddkabel ingår - Inkl. Installation",
+  "brand": "Wallbox",
+  "price": "5 990 SEK",
+  "oldPrice": "",
+  "image": "https://evify2.s3.amazonaws.com/media/lbx-google-wallbox-pulsar-max.png",
+  "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=E264&url=https://www.evify.se/produkter/wallbox-pulsar-max/"
+ },
+ {
+  "id": "T2002",
+  "name": "Easee Charge Max Laddbox + Tibber - 1 000 kr Rabatt",
+  "brand": "Easee",
+  "price": "5 990 SEK",
+  "oldPrice": "",
+  "image": "https://evify2.s3.amazonaws.com/static/assets/img/tibber/produkter/easee-charge-max-tibber-laddbox.png",
+  "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=T2002&url=https://www.evify.se/laddbox/tibber/?p=2"
+ },
+ {
+  "id": "2452260",
+  "name": "Charge Amps Dawn Laddbox - 4G & V2G-förberedd - Inkl. Installation",
+  "brand": "Charge Amps",
+  "price": "7 990 SEK",
+  "oldPrice": "",
+  "image": "https://evify2.s3.amazonaws.com/media/lbx-google-charge-amps-dawn.png",
+  "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=2452260&url=https://www.evify.se/produkter/charge-amps-dawn/"
+ },
+ {
+  "id": "2452259",
+  "name": "Charge Amps Aura Laddbox - Ladda 2 Bilar Samtidigt - Inkl. Installation",
+  "brand": "Charge Amps",
+  "price": "11 990 SEK",
+  "oldPrice": "",
+  "image": "https://evify2.s3.amazonaws.com/media/lbx-google-charge-amps-aura.png",
+  "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=2452259&url=https://www.evify.se/produkter/charge-amps-aura/"
+ },
+ {
+  "id": "T2006",
+  "name": "Charge Amps Aura Laddbox + Tibber - 1 000 kr Rabatt",
+  "brand": "Charge Amps",
+  "price": "11 990 SEK",
+  "oldPrice": "",
+  "image": "https://evify2.s3.amazonaws.com/static/assets/img/tibber/produkter/charge-amps-aura-tibber-laddbox.png",
+  "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=T2006&url=https://www.evify.se/laddbox/tibber/?p=6"
+ }
+]
