@@ -1,0 +1,40 @@
+name: Uppdatera produktfeeds
+
+on:
+  schedule:
+    - cron: '0 4 * * *'   # Varje natt kl 04:00 UTC
+  workflow_dispatch:
+
+jobs:
+  fetch-feeds:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checka ut repo
+        uses: actions/checkout@v4
+
+      - name: Sätt upp Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Laddboxar (Evify)
+        run: |
+          python3 scripts/build_feed.py \
+            "${{ secrets.ADTRACTION_FEED_URL }}" \
+            data/produkter.json \
+            --keep wallbox --limit 20
+
+      - name: Resmål (Sembo)
+        run: |
+          python3 scripts/build_feed.py \
+            "${{ secrets.ADTRACTION_TRAVEL_URL }}" \
+            data/resmal.json \
+            --skip "Sverige,Stockholm,Göteborg" --limit 12
+
+      - name: Committa och pusha
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "Uppdatera produktfeeds $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
