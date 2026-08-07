@@ -1,0 +1,19 @@
+name: Inspektera garagedata
+
+on:
+  workflow_dispatch:      # Körs bara manuellt — skriver inget, bara rapporterar
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checka ut repo
+        uses: actions/checkout@v4
+
+      - name: Sätt upp Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Kartlägg fälten i garagedata.json
+        run: python3 scripts/inspect_garage.py data/garagedata.json
