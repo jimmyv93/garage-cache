@@ -1,0 +1,30 @@
+name: Hämta taxeområden
+
+on:
+  workflow_dispatch:      # Körs bara manuellt tills vi vet hur datan ser ut
+
+jobs:
+  fetch-taxa:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checka ut repo
+        uses: actions/checkout@v4
+
+      - name: Sätt upp Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Hämta taxeområden från Trafikkontorets WFS
+        run: |
+          python3 scripts/fetch_taxa.py \
+            "${{ secrets.TRAFIKKONTORET_API_KEY }}" \
+            data/taxeomraden.geojson
+
+      - name: Committa och pusha
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/taxeomraden.geojson
+          git diff --staged --quiet || git commit -m "Hämta taxeområden $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
