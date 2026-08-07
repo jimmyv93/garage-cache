@@ -1,7 +1,9 @@
 name: Hämta taxeområden
 
 on:
-  workflow_dispatch:      # Körs bara manuellt tills vi vet hur datan ser ut
+  schedule:
+    - cron: '0 3 1 * *'   # Kl 03:00 den 1:a varje månad
+  workflow_dispatch:
 
 jobs:
   fetch-taxa:
