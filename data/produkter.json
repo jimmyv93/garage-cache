@@ -5,7 +5,7 @@
   "brand": "NexBlue",
   "price": "4 690 SEK",
   "oldPrice": "",
-  "image": "https://evify2.s3.amazonaws.com/media/lbx-google-nexblue-edge-2.png",
+  "image": "https://evify2-media.s3.amazonaws.com/media/lbx-google-nexblue-edge-2.png",
   "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=NB1900&fid=1509&url=https://www.evify.se/produkter/nexblue-edge-2/"
  },
  {
@@ -14,7 +14,7 @@
   "brand": "Charge Amps",
   "price": "4 990 SEK",
   "oldPrice": "",
-  "image": "https://evify2.s3.amazonaws.com/media/lbx-google-charge-amps-halo.png",
+  "image": "https://evify2-media.s3.amazonaws.com/media/lbx-google-charge-amps-halo.png",
   "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=2452250&fid=1509&url=https://www.evify.se/produkter/charge-amps-halo/"
  },
  {
@@ -23,7 +23,7 @@
   "brand": "Easee",
   "price": "4 990 SEK",
   "oldPrice": "",
-  "image": "https://evify2.s3.amazonaws.com/media/lbx-google-easee-charge-up.png",
+  "image": "https://evify2-media.s3.amazonaws.com/media/lbx-google-easee-charge-up.png",
   "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=10140&fid=1509&url=https://www.evify.se/produkter/easee-charge-up/"
  },
  {
@@ -32,7 +32,7 @@
   "brand": "Charge Amps",
   "price": "4 990 SEK",
   "oldPrice": "",
-  "image": "https://evify2.s3.amazonaws.com/media/lbx-google-charge-amps-luna.png",
+  "image": "https://evify2-media.s3.amazonaws.com/media/lbx-google-charge-amps-luna.png",
   "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=131461&fid=1509&url=https://www.evify.se/produkter/charge-amps-luna/"
  },
  {
@@ -41,7 +41,7 @@
   "brand": "Zaptec",
   "price": "4 990 SEK",
   "oldPrice": "",
-  "image": "https://evify2.s3.amazonaws.com/media/lbx-google-zaptec-go.png",
+  "image": "https://evify2-media.s3.amazonaws.com/media/lbx-google-zaptec-go.png",
   "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=368800&fid=1509&url=https://www.evify.se/produkter/zaptec-go/"
  },
  {
@@ -50,7 +50,7 @@
   "brand": "go-e",
   "price": "4 990 SEK",
   "oldPrice": "",
-  "image": "https://evify2.s3.amazonaws.com/media/lbx-google-go-e-gemini-flex.png",
+  "image": "https://evify2-media.s3.amazonaws.com/media/lbx-google-go-e-gemini-flex.png",
   "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=21340&fid=1509&url=https://www.evify.se/produkter/go-e-gemini-flex/"
  },
  {
@@ -104,7 +104,7 @@
   "brand": "Zaptec",
   "price": "5 990 SEK",
   "oldPrice": "",
-  "image": "https://evify2.s3.amazonaws.com/media/lbx-google-zaptec-go-2.png",
+  "image": "https://evify2-media.s3.amazonaws.com/media/lbx-google-zaptec-go-2.png",
   "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=379800&fid=1509&url=https://www.evify.se/produkter/zaptec-go-2/"
  },
  {
@@ -113,7 +113,7 @@
   "brand": "Defa",
   "price": "5 990 SEK",
   "oldPrice": "",
-  "image": "https://evify2.s3.amazonaws.com/media/lbx-google-defa-power.png",
+  "image": "https://evify2-media.s3.amazonaws.com/media/lbx-google-defa-power.png",
   "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=715000&fid=1509&url=https://www.evify.se/produkter/defa-power/"
  },
  {
@@ -122,7 +122,7 @@
   "brand": "Tesla",
   "price": "5 990 SEK",
   "oldPrice": "",
-  "image": "https://evify2.s3.amazonaws.com/media/tesla-wall-connector-laddbox.png",
+  "image": "https://evify2-media.s3.amazonaws.com/media/tesla-wall-connector-laddbox.png",
   "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=80100&fid=1509&url=https://www.evify.se/produkter/tesla-wall-connector/"
  },
  {
@@ -131,7 +131,7 @@
   "brand": "Easee",
   "price": "5 990 SEK",
   "oldPrice": "",
-  "image": "https://evify2.s3.amazonaws.com/media/lbx-google-easee-charge-max.png",
+  "image": "https://evify2-media.s3.amazonaws.com/media/lbx-google-easee-charge-max.png",
   "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=10341&fid=1509&url=https://www.evify.se/produkter/easee-charge-max/"
  },
  {
@@ -140,7 +140,7 @@
   "brand": "Wallbox",
   "price": "5 990 SEK",
   "oldPrice": "",
-  "image": "https://evify2.s3.amazonaws.com/media/lbx-google-wallbox-pulsar-max.png",
+  "image": "https://evify2-media.s3.amazonaws.com/media/lbx-google-wallbox-pulsar-max.png",
   "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=E264&fid=1509&url=https://www.evify.se/produkter/wallbox-pulsar-max/"
  },
  {
@@ -158,7 +158,7 @@
   "brand": "Charge Amps",
   "price": "7 990 SEK",
   "oldPrice": "",
-  "image": "https://evify2.s3.amazonaws.com/media/lbx-google-charge-amps-dawn.png",
+  "image": "https://evify2-media.s3.amazonaws.com/media/lbx-google-charge-amps-dawn.png",
   "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=2452260&fid=1509&url=https://www.evify.se/produkter/charge-amps-dawn/"
  },
  {
@@ -167,7 +167,7 @@
   "brand": "Charge Amps",
   "price": "11 990 SEK",
   "oldPrice": "",
-  "image": "https://evify2.s3.amazonaws.com/media/lbx-google-charge-amps-aura.png",
+  "image": "https://evify2-media.s3.amazonaws.com/media/lbx-google-charge-amps-aura.png",
   "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=2452259&fid=1509&url=https://www.evify.se/produkter/charge-amps-aura/"
  },
  {
