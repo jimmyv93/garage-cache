@@ -81,6 +81,15 @@
   "url": "https://do.sembo.se/t/t?a=1969219401&as=2096235863&t=2&tk=1&cupa_sku=sembo%3Ase%3Aadtraction%3Adestination%3A439122&fid=3411&url=https://www.sembo.se/resmal/italienska-alperna-italien?airport=ARN&affiliate-id=70300"
  },
  {
+  "id": "sembo:se:adtraction:destination:436201",
+  "name": "Milano",
+  "brand": "Sembo",
+  "price": "1 654 SEK",
+  "oldPrice": "",
+  "image": "https://images.sembo.travel/ImageService/ImageHandler.ashx?service=sembo&nameOfImage=240985.jpg",
+  "url": "https://do.sembo.se/t/t?a=1969219401&as=2096235863&t=2&tk=1&cupa_sku=sembo%3Ase%3Aadtraction%3Adestination%3A436201&fid=3411&url=https://www.sembo.se/resmal/milano-italien?airport=ARN&affiliate-id=70300"
+ },
+ {
   "id": "sembo:se:adtraction:destination:399065",
   "name": "Berlin",
   "brand": "Sembo",
@@ -97,14 +106,5 @@
   "oldPrice": "",
   "image": "https://images.sembo.travel/ImageService/ImageHandler.ashx?service=sembo&nameOfImage=236573.jpg",
   "url": "https://do.sembo.se/t/t?a=1969219401&as=2096235863&t=2&tk=1&cupa_sku=sembo%3Ase%3Aadtraction%3Adestination%3A399549&fid=3411&url=https://www.sembo.se/resmal/hamburg-hamburg-bundesland-tyskland?airport=ARN&affiliate-id=70300"
- },
- {
-  "id": "sembo:se:adtraction:destination:462013",
-  "name": "Amsterdam",
-  "brand": "Sembo",
-  "price": "2 052 SEK",
-  "oldPrice": "",
-  "image": "https://images.sembo.travel/ImageService/ImageHandler.ashx?service=sembo&nameOfImage=239443.jpg",
-  "url": "https://do.sembo.se/t/t?a=1969219401&as=2096235863&t=2&tk=1&cupa_sku=sembo%3Ase%3Aadtraction%3Adestination%3A462013&fid=3411&url=https://www.sembo.se/resmal/amsterdam-storstad-holland?airport=ARN&affiliate-id=70300"
  }
 ]
