@@ -3,7 +3,7 @@
   "id": "sembo:se:adtraction:destination:472681",
   "name": "Polen",
   "brand": "Sembo",
-  "price": "655 SEK",
+  "price": "697 SEK",
   "oldPrice": "",
   "image": "https://images.sembo.travel/ImageService/ImageHandler.ashx?service=sembo&nameOfImage=242443.jpg",
   "url": "https://do.sembo.se/t/t?a=1969219401&as=2096235863&t=2&tk=1&cupa_sku=sembo%3Ase%3Aadtraction%3Adestination%3A472681&fid=3411&url=https://www.sembo.se/resmal/polen?airport=ARN&affiliate-id=70300"
@@ -12,7 +12,7 @@
   "id": "sembo:se:adtraction:destination:473362",
   "name": "Gdansk",
   "brand": "Sembo",
-  "price": "655 SEK",
+  "price": "697 SEK",
   "oldPrice": "",
   "image": "https://images.sembo.travel/ImageService/ImageHandler.ashx?service=sembo&nameOfImage=173322.jpg",
   "url": "https://do.sembo.se/t/t?a=1969219401&as=2096235863&t=2&tk=1&cupa_sku=sembo%3Ase%3Aadtraction%3Adestination%3A473362&fid=3411&url=https://www.sembo.se/resmal/gdansk-pomorskie-polen?airport=ARN&affiliate-id=70300"
@@ -21,7 +21,7 @@
   "id": "sembo:se:adtraction:destination:539678",
   "name": "England",
   "brand": "Sembo",
-  "price": "808 SEK",
+  "price": "810 SEK",
   "oldPrice": "",
   "image": "https://images.sembo.travel/ImageService/ImageHandler.ashx?service=sembo&nameOfImage=239170.jpg",
   "url": "https://do.sembo.se/t/t?a=1969219401&as=2096235863&t=2&tk=1&cupa_sku=sembo%3Ase%3Aadtraction%3Adestination%3A539678&fid=3411&url=https://www.sembo.se/resmal/england-storbritannien?airport=ARN&affiliate-id=70300"
@@ -30,16 +30,25 @@
   "id": "sembo:se:adtraction:destination:439122",
   "name": "Italienska Alperna",
   "brand": "Sembo",
-  "price": "810 SEK",
+  "price": "813 SEK",
   "oldPrice": "",
   "image": "https://images.sembo.travel/ImageService/ImageHandler.ashx?service=sembo&nameOfImage=139393.jpg",
   "url": "https://do.sembo.se/t/t?a=1969219401&as=2096235863&t=2&tk=1&cupa_sku=sembo%3Ase%3Aadtraction%3Adestination%3A439122&fid=3411&url=https://www.sembo.se/resmal/italienska-alperna-italien?airport=ARN&affiliate-id=70300"
  },
  {
+  "id": "sembo:se:adtraction:destination:436201",
+  "name": "Milano",
+  "brand": "Sembo",
+  "price": "1 015 SEK",
+  "oldPrice": "",
+  "image": "https://images.sembo.travel/ImageService/ImageHandler.ashx?service=sembo&nameOfImage=240985.jpg",
+  "url": "https://do.sembo.se/t/t?a=1969219401&as=2096235863&t=2&tk=1&cupa_sku=sembo%3Ase%3Aadtraction%3Adestination%3A436201&fid=3411&url=https://www.sembo.se/resmal/milano-italien?airport=ARN&affiliate-id=70300"
+ },
+ {
   "id": "sembo:se:adtraction:destination:541038",
   "name": "London",
   "brand": "Sembo",
-  "price": "1 054 SEK",
+  "price": "1 057 SEK",
   "oldPrice": "",
   "image": "https://images.sembo.travel/ImageService/ImageHandler.ashx?service=sembo&nameOfImage=236299.jpg",
   "url": "https://do.sembo.se/t/t?a=1969219401&as=2096235863&t=2&tk=1&cupa_sku=sembo%3Ase%3Aadtraction%3Adestination%3A541038&fid=3411&url=https://www.sembo.se/resmal/london-england-storbritannien?airport=ARN&affiliate-id=70300"
@@ -48,25 +57,16 @@
   "id": "sembo:se:adtraction:destination:473925",
   "name": "Kraków",
   "brand": "Sembo",
-  "price": "1 115 SEK",
+  "price": "1 116 SEK",
   "oldPrice": "",
   "image": "https://images.sembo.travel/ImageService/ImageHandler.ashx?service=sembo&nameOfImage=240984.jpg",
   "url": "https://do.sembo.se/t/t?a=1969219401&as=2096235863&t=2&tk=1&cupa_sku=sembo%3Ase%3Aadtraction%3Adestination%3A473925&fid=3411&url=https://www.sembo.se/resmal/krakow-polen?airport=ARN&affiliate-id=70300"
  },
  {
-  "id": "sembo:se:adtraction:destination:436201",
-  "name": "Milano",
-  "brand": "Sembo",
-  "price": "1 171 SEK",
-  "oldPrice": "",
-  "image": "https://images.sembo.travel/ImageService/ImageHandler.ashx?service=sembo&nameOfImage=240985.jpg",
-  "url": "https://do.sembo.se/t/t?a=1969219401&as=2096235863&t=2&tk=1&cupa_sku=sembo%3Ase%3Aadtraction%3Adestination%3A436201&fid=3411&url=https://www.sembo.se/resmal/milano-italien?airport=ARN&affiliate-id=70300"
- },
- {
   "id": "sembo:se:adtraction:destination:473082",
   "name": "Kolobrzeg",
   "brand": "Sembo",
-  "price": "1 195 SEK",
+  "price": "1 160 SEK",
   "oldPrice": "",
   "image": "https://images.sembo.travel/ImageService/ImageHandler.ashx?service=sembo&nameOfImage=168573.jpg",
   "url": "https://do.sembo.se/t/t?a=1969219401&as=2096235863&t=2&tk=1&cupa_sku=sembo%3Ase%3Aadtraction%3Adestination%3A473082&fid=3411&url=https://www.sembo.se/resmal/kolobrzeg-zachodnio-pomorskie-polen?airport=NYO&affiliate-id=70300"
@@ -75,25 +75,16 @@
   "id": "sembo:se:adtraction:destination:436484",
   "name": "Rom",
   "brand": "Sembo",
-  "price": "1 604 SEK",
+  "price": "1 593 SEK",
   "oldPrice": "",
   "image": "https://images.sembo.travel/ImageService/ImageHandler.ashx?service=sembo&nameOfImage=239045.jpg",
   "url": "https://do.sembo.se/t/t?a=1969219401&as=2096235863&t=2&tk=1&cupa_sku=sembo%3Ase%3Aadtraction%3Adestination%3A436484&fid=3411&url=https://www.sembo.se/resmal/rom-storstader-italien?airport=ARN&affiliate-id=70300"
  },
  {
-  "id": "sembo:se:adtraction:destination:515569",
-  "name": "Barcelona",
-  "brand": "Sembo",
-  "price": "1 692 SEK",
-  "oldPrice": "",
-  "image": "https://images.sembo.travel/ImageService/ImageHandler.ashx?service=sembo&nameOfImage=242423.jpg",
-  "url": "https://do.sembo.se/t/t?a=1969219401&as=2096235863&t=2&tk=1&cupa_sku=sembo%3Ase%3Aadtraction%3Adestination%3A515569&fid=3411&url=https://www.sembo.se/resmal/barcelona-storstader-spanien?airport=ARN&affiliate-id=70300"
- },
- {
   "id": "sembo:se:adtraction:destination:310627",
   "name": "Wien",
   "brand": "Sembo",
-  "price": "1 729 SEK",
+  "price": "1 659 SEK",
   "oldPrice": "",
   "image": "https://images.sembo.travel/ImageService/ImageHandler.ashx?service=sembo&nameOfImage=9821.jpg",
   "url": "https://do.sembo.se/t/t?a=1969219401&as=2096235863&t=2&tk=1&cupa_sku=sembo%3Ase%3Aadtraction%3Adestination%3A310627&fid=3411&url=https://www.sembo.se/resmal/wien-storstad-osterrike?airport=ARN&affiliate-id=70300"
@@ -102,9 +93,18 @@
   "id": "sembo:se:adtraction:destination:357354",
   "name": "Köpenhamn",
   "brand": "Sembo",
-  "price": "1 744 SEK",
+  "price": "1 742 SEK",
   "oldPrice": "",
   "image": "https://images.sembo.travel/ImageService/ImageHandler.ashx?service=sembo&nameOfImage=239272.jpg",
   "url": "https://do.sembo.se/t/t?a=1969219401&as=2096235863&t=2&tk=1&cupa_sku=sembo%3Ase%3Aadtraction%3Adestination%3A357354&fid=3411&url=https://www.sembo.se/resmal/kopenhamn-storstad-danmark?airport=ARN&affiliate-id=70300"
+ },
+ {
+  "id": "sembo:se:adtraction:destination:515569",
+  "name": "Barcelona",
+  "brand": "Sembo",
+  "price": "1 746 SEK",
+  "oldPrice": "",
+  "image": "https://images.sembo.travel/ImageService/ImageHandler.ashx?service=sembo&nameOfImage=242423.jpg",
+  "url": "https://do.sembo.se/t/t?a=1969219401&as=2096235863&t=2&tk=1&cupa_sku=sembo%3Ase%3Aadtraction%3Adestination%3A515569&fid=3411&url=https://www.sembo.se/resmal/barcelona-storstader-spanien?airport=ARN&affiliate-id=70300"
  }
 ]
