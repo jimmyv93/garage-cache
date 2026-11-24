@@ -36,15 +36,6 @@
   "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=131461&fid=1509&url=https://www.evify.se/produkter/charge-amps-luna/"
  },
  {
-  "id": "368800",
-  "name": "Zaptec Go Laddbox - Bästsäljare - Inkl. Installation",
-  "brand": "Zaptec",
-  "price": "4 990 SEK",
-  "oldPrice": "",
-  "image": "https://evify2-media.s3.amazonaws.com/media/lbx-google-zaptec-go.png",
-  "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=368800&fid=1509&url=https://www.evify.se/produkter/zaptec-go/"
- },
- {
   "id": "21340",
   "name": "go-e Gemini Flex 2.0 Laddbox - Flexibel Hemma & På Resan - Inkl. Installation",
   "brand": "go-e",
@@ -52,6 +43,15 @@
   "oldPrice": "",
   "image": "https://evify2-media.s3.amazonaws.com/media/lbx-google-go-e-gemini-flex.png",
   "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=21340&fid=1509&url=https://www.evify.se/produkter/go-e-gemini-flex/"
+ },
+ {
+  "id": "368800",
+  "name": "Zaptec Go Laddbox - Bästsäljare - Inkl. Installation",
+  "brand": "Zaptec",
+  "price": "4 990 SEK",
+  "oldPrice": "",
+  "image": "https://evify2-media.s3.amazonaws.com/media/lbx-google-zaptec-go.png",
+  "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=368800&fid=1509&url=https://www.evify.se/produkter/zaptec-go/"
  },
  {
   "id": "T2001",
@@ -99,15 +99,6 @@
   "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=T2007&fid=1509&url=https://www.evify.se/produkter/charge-amps-luna/?p=1"
  },
  {
-  "id": "379800",
-  "name": "Zaptec Go 2 - Laddbox med V2G - Inkl. Installation",
-  "brand": "Zaptec",
-  "price": "5 990 SEK",
-  "oldPrice": "",
-  "image": "https://evify2-media.s3.amazonaws.com/media/lbx-google-zaptec-go-2.png",
-  "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=379800&fid=1509&url=https://www.evify.se/produkter/zaptec-go-2/"
- },
- {
   "id": "715000",
   "name": "DEFA Power Laddbox - Fast Laddkabel & Display - Inkl. Installation",
   "brand": "Defa",
@@ -142,6 +133,15 @@
   "oldPrice": "",
   "image": "https://evify2-media.s3.amazonaws.com/media/lbx-google-wallbox-pulsar-max.png",
   "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=E264&fid=1509&url=https://www.evify.se/produkter/wallbox-pulsar-max/"
+ },
+ {
+  "id": "379800",
+  "name": "Zaptec Go 2 - Laddbox med V2G - Inkl. Installation",
+  "brand": "Zaptec",
+  "price": "5 990 SEK",
+  "oldPrice": "",
+  "image": "https://evify2-media.s3.amazonaws.com/media/lbx-google-zaptec-go-2.png",
+  "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=379800&fid=1509&url=https://www.evify.se/produkter/zaptec-go-2/"
  },
  {
   "id": "T2002",
