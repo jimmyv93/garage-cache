@@ -72,15 +72,6 @@
   "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=T2003&fid=1509&url=https://www.evify.se/laddbox/tibber/?p=3"
  },
  {
-  "id": "T2004",
-  "name": "Zaptec Go 2 Laddbox + Tibber - 1 000 kr Rabatt",
-  "brand": "Zaptec",
-  "price": "4 990 SEK",
-  "oldPrice": "",
-  "image": "https://evify2.s3.amazonaws.com/static/assets/img/tibber/produkter/zaptec-go-2-tibber-laddbox.png",
-  "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=T2004&fid=1509&url=https://www.evify.se/laddbox/tibber/?p=4"
- },
- {
   "id": "T2005",
   "name": "go-e Gemini Flex 2.0 Laddbox + Tibber - 1 000 kr Rabatt",
   "brand": "go-e",
@@ -151,6 +142,15 @@
   "oldPrice": "",
   "image": "https://evify2.s3.amazonaws.com/static/assets/img/tibber/produkter/easee-charge-max-tibber-laddbox.png",
   "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=T2002&fid=1509&url=https://www.evify.se/laddbox/tibber/?p=2"
+ },
+ {
+  "id": "T2004",
+  "name": "Zaptec Go 2 Laddbox + Tibber - 1 000 kr Rabatt",
+  "brand": "Zaptec",
+  "price": "5 990 SEK",
+  "oldPrice": "",
+  "image": "https://evify2.s3.amazonaws.com/static/assets/img/tibber/produkter/zaptec-go-2-tibber-laddbox.png",
+  "url": "https://do.evify.se/t/t?a=1785427541&as=2096235863&t=2&tk=1&cupa_sku=T2004&fid=1509&url=https://www.evify.se/laddbox/tibber/?p=4"
  },
  {
   "id": "2452260",
